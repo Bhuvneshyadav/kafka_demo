@@ -1,0 +1,12 @@
+<SwiftMessage>
+                <Header>
+                    <Sender>BANKUS33XXX Bhuvnesh adsf</Sender>
+                    <Receiver>BANKDEFFXXX</Receiver>
+                </Header>
+                <Body>
+                    <Transaction>
+                        <Amount>1000.00</Amount>
+                        <Currency>USD</Currency>
+                    </Transaction>
+                </Body>
+            </SwiftMessage>
